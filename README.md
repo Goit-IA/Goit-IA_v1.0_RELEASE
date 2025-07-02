@@ -32,11 +32,10 @@
 │   ├── modelo_knn.py           # Modelo de preguntas frecuentes KNN
 │   ├── modelo_llm.py           # Modelo LLM (Ollama/Mistral)
 │   └── seleccion_modelo.py     # Selector automático de modelo
+│   └── vector_info_general.pkl # Embeddings generados de los PDFs  
 ├── datasets/
 │   └── users.csv               # Usuarios registrados
 │   └── faq.csv                 # Preguntas y respuestas frecuentes
-├── modelo/
-│   └── vector_info_general.pkl # Embeddings generados de los PDFs
 ├── pdfs/
 │   └── documento_unido.pdf     # PDF combinado para entrenamiento
 ├── logo.png                    # Logo del proyecto
