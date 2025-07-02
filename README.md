@@ -110,11 +110,3 @@
 
 ---
 
-## Créditos y contacto
-
-Desarrollado por el equipo de Goit-IA.
-
-¿Dudas o mejoras? ¡Contribuciones y sugerencias son bienvenidas!
-
----
-
