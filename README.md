@@ -48,8 +48,8 @@
 1. **Clona el repositorio**
 
    ```bash
-   git clone https://github.com/tu_usuario/goit-ia.git
-   cd goit-ia
+   git clone https://github.com/Goit-IA/Goit-IA_v1.0_RELEASE.git
+   cd Goit-IA_v1.0_RELEASE
    ```
 
 2. **Crea un entorno virtual y activa:**
