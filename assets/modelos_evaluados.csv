@@ -1,0 +1,1215 @@
+Pregunta ID,Pregunta,Modelo,Respuesta,Tiempo,Similitud Promedio
+1,Cual es el procedimiento para dar de alta un AFEL,TinyLLaMA,"Eres una ayudante única útil que responde solo en español utilizando solo la información proporcionada.
+
+Cuenta con la información proporcionada del sistema IDSE del IMSS y recibe la respuesta vía correo electrónico. Tendrás que solicitar la alta de seguros facultativos cada semestre, pero no es necesario solicitar el alta de seguro facultativo cada mes. Si requieres tramitar la baja del seguro facultativo, descarga tu Constancia de Viñeda (Descargo) al correo electrónico segurofacultativo@uv.mx, marca un copia de la Constancia y envías el Correo Electrónico de segurofacultativo al Secretario de Facultad. En el asunto del correo describe tu Constancia de Viñeda de Deringoción (Descarga) e inclóben tu Noemboleno, Si necesitas información de rectorado o estudiantil, envía tu documento por correo electrónico a segurofacultativo@uv.mx, incluyendo el nombre y número del asunto del correo, y no se requerirán más solicitudes. La 3. Comprobante de pago (Arancel) para hacer la validación de antecedentes (pagos global sin importar el número de materias). Tienes que firmarte, original y copia en un formato proporcionado (DGAE-OM-EQ02), original y copia. Para autorizar tu solicitud a la verificación de los documentos que pretendes, necesitarás una Autorización (DGAE-OM-A) de la Oficialía Mayor (DGAE-OM-A) para la verificación de los documentos. Las comprobaciones de pagos (aranceles) por concepto de trámite de equivalencia de estudios realizados fuera de la UV. Puede ser reconocido tu Solicitación (DGAE-OM-EQ02), original y copia. Los planes de estudios y programas relacionados a los estudios que pretendes solicitarán una Comprobante de pagos (arancel) por concepto de trámite de equivalencia de estudios realizados en otras instituciones del Siesteo Educativo Nacional. El documento de comprobación de pagos (arancel) por concepto de trámite de equivalencia de estudios realizados en otras instituciones del SIE, será solicitado a través del apartado Detalle de Vigencia, que se proporcionará al nombre o razón social que deseas que tu UV solicite la alta. En caso de no contar con este servicio u otro similar externo, debes solicitar tu alta ALTA. Si en la constancia de vigencia de derechos el nombre o razón social es distinto a la UV y requieres la baja del seguro facultativo, primero deberás solicitar la baja del seguro a la instancia que te dio alta. Elige fácilmente la Clínica más cercaña para tu actual domicilio. ¿Cambias el Club al que se lesionó tu clínica por internet? Para cambiar tu Clínica por internet solo necesitas tu CURP, el Código Postal de tu nueva domicilio y un correo electrónico personal. Tejas aquí.",13.09,0.5988471308546609
+1,Cual es el procedimiento para dar de alta un AFEL,Phi-3 Mini,"Comprueba que estás inscrito antes de intentar la baja o nueva inscripción, esto garantizará su cumplimiento del reglamento interno.
+Al recibir tu alta como egresado y haberla realizado en el sistema IDSE del IMSS (que sería notificada vía correo electrónico), deberás darte de alta nuevamente pero ahora con AFEL, esto se puede hacer directamente en la unidad médica correspondiente mediante su portal.
+No es necesario solicitar repetidamente tu baja o nueva inscripción al seguro facultativo cada semestre si estás inscrito correctamente y vigente. De lo contrario, mantén el estado vigente para evitar la necesidad de regalías periódicas (estas directrices aplican a los egresados).
+Para cambiar tu Clínica del IMSS por internet requerirás proporcionar personalmente tu CURP o DNI, código postal nuevo y un correo electrónico para realizarlo en línea. Los beneficios incluyen la elección de una clínica más cercana a su domicilio actualizado y horarios que puedan coincidir con su disponibilidad personal (matutino o vespertino).
+Para obtener el NSS, visita www.gob.mx/afiliatealimss en línea para la inscripción al seguro facultativo del IMSS y recibirá un correo electrónico con los pasos a seguir específic0f para completar dicho proceso dentro de su respectiva clínica.
+Preguntas frecuentes: ¿Cómo se obtiene el Número de Seguridad Social (NSS)? Para acceder al formulario en línea y comenzar el proceso, visita la página web del gobierno mexicano especificamente para afiliados del IMSS.",22.83,0.4168777650279575
+1,Cual es el procedimiento para dar de alta un AFEL,Mistral,"El procedimiento para dar de alta un Afiliado del Estudiante (AFEL) se realiza de la siguiente manera:
+
+Verifica si estás inscrito antes de realizizar el movimiento afiliatorio.
+Cuando el alta se haya realizado en el sistema IDSE del IMSS, recibirás la respuesta vía correo electrónico.
+Inmediatamente debes darte de alta en la unidad médica correspondiente a través del portal del IMSS.
+Recuerda que no es necesario solicitar el alta de seguro facultativo cada semestre, mientras te mantengas inscrito estarás vigente.
+En caso de requerir baja del seguro facultativo:
+
+Si eres estudiante: Requisita el formato de baja (descarga), descarga tu Constancia de Vigencia de Derecho y envíalo al correo electrónico segurofacultativo@uv.mx, marcando copia al Secretario de Facultad. En el asunto del correo describe: BAJA SEGURO.
+Si eres egresado: Envía tu Constancia de Vigencia de Derecho al correo electrónico segurofacultativo@uv.mx, mencionando eres egresado e incluye tu Nombre.
+En caso de no contar con el servicio u otro similar externo, debes tramitar su alta. Si en la constancia de vigencia de derechos el nombre o razón social es distinto a la UV y requieres el seguro facultativo, primero deberás solicitar la baja del seguro a la instancia que te dio alta.",34.32,0.590873092577007
+1,Cual es el procedimiento para dar de alta un AFEL,OpenHermes,"Para dar de alta un AFEL (Aseguramiento Fácil y Ligero), primero debes cumplir con los siguientes requisitos:
+
+Ser estudiante regular de alguna institución educativa que sea parte del Sistema Educativo Nacional o ser egresado de la misma.
+No haber tenido AFEL en otras instituciones educativas anteriores al semestre en curso.
+Pagar el arancel correspondiente por concepto de AFEL, que es de $400.00 y se realiza en cualquier caja UV.
+Una vez cumplidos los requisitos, sigue estos pasos:
+
+Descarga el formato de solicitud de AFEL (DGAE-OM-EQ02) proporcionado por la Oficialía Mayor.
+Llena y firma la solicitud original junto con su copia.
+Presenta los siguientes documentos en copia: a. Constancia de vigencia de derechos (obtenida al realizar el pago del arancel). b. Certificado de estudios o constancia con calificaciones.
+Prepara la autorización (DGAE-OM-A) en formato proporcionado por la Oficialía Mayor para la verificación de los documentos que presenta.
+Envía la solicitud original, copia y documentos necesarios al correo electrónico segurofacultativo@uv.mx, marcando copia al Secretario de Facultad en el asunto del correo.
+Una vez recibida y procesada la solicitud, se te notificará vía correo electrónico si se ha dado de alta correctamente tu AFEL.",34.98,0.5032914241158588
+1,Cual es el procedimiento para dar de alta un AFEL,Dolphin-Mistral,"El procedimiento para dar de alta un AFEL en la Universidad Veracruzana se realiza siguiendo los siguientes pasos:
+
+Descarga el formato de alta (DGAE-OM-AL01) del portal de la Facultad de Estudios Superiores y Aplicados (FESAC), o solicita un ejemplar en la Secretaría de Facultad.
+Llena el formato con tus datos personales, como CURP, nombre, fecha de nacimiento y sexo.
+Asegúrate de firmar el formulario de alta en el lugar indicado.
+Envía el formato de alta, junto con la Constancia de Vigencia de Derecho y tu CURP, al correo electrónico segurofacultativo@uv.mx.
+Recibe una respuesta confirmando su alta en el sistema del IMSS.
+Realiza el trámite de alta en la unidad médica correspondiente a través del portal del IMSS.
+Asegúrate de mantenerte actualizado con tus derechos y beneficios.
+Ten en cuenta que para obtener más información específica sobre la Universidad Veracruzana, es mejor contactar directamente a su secretaría.",28.44,0.5226993863548098
+1,Cual es el procedimiento para dar de alta un AFEL,Zephyr,"Para dar de alta un AFEL (Accidente, Enfermedad o Muerte Laboral), sigue estos pasos:
+
+Verifica que se encuentres inscrito antes de realizar el proceso de afiliación.
+Cuando se haya realizado la afiliación en el sistema IDSE del IMSS, recibirás la confirmación vía correo electrónico.
+Inmediatamente será notificado por correo electrónico y debes darte de alta en la unidad médica correspondiente a través del portal del IMSS.
+No es necesario solicitar la afiliación de seguro facultativo cada semestre, mientras se mantenga inscrito estará vigente.
+Trámite de Baja:
+
+Si eres estudiante:
+
+Requisita el formato de baja (descargar) y descarga tu Constancia de Vigencia de Derecho. Envía ambos documentos al correo electrónico segurofacultativo@uv.mx, marcando copia al Secretario de Facultad. En el asunto del correo describe: BAJA SEGURO.
+Si eres egresado:
+
+Envía tu Constancia de Vigencia de Derecho al correo electrónico segurofacultativo@uv.mx, mencionando que eres egresado e incluye tu nombre.
+Pago (arancel) por concepto de trámite de equivalencia de estudios cursados en la UV: DGAE-OM-EQ01 $ 400.00. Trámite: Revisión de dictamen de equivalencia de estudios realizados fuera de la Universidad Veracruzana y validación de antecedentes (pago global sin importar el número de materias). Requisitos:
+Solicitud firmada, en formato proporcionado (DGAE-OM-EQ02), original y copia. 2. Copia del certificado de estudios o constancia con calificaciones. 3. Copia del plan de estudios y programas relativos a los estudios que pretende el solicitante le sean reconocidos. 4. Autorización, en formato proporcionado por la Oficialía Mayor (DGAE-OM-A), para la verificación de los documentos que presenta. 5. Comprobante de pago (arancel) por concepto de trámite de equivalencia de estudios realizados en otras instituciones del Sistema Educativo Nacional. FormatosCostoForma de pago: DGAE-OM-EQ02, DGAE-OM-A. Cómo cambiar mi Clínica del IMSS por Internet?: Para cambiar tu Clínica por internet solo necesitas tu CURP, el Código Postal de tu nuevo domicilio y un correo electrónico personal. Te ofrece estos beneficios: ● Elige fácilmente la clínica más cercana a tu actual domicilio. ● Selecciona el horario de atención de tu preferencia (matutino o vespertino). Ingresa aquí. Preguntas frecuentes:
+¿Cómo obtener el NSS (Número de Seguridad Social)? Respuesta en español: Puedes solicitarlo en línea en el micrositio www.gob.mx/afiliatealimss .",59.47,0.6104129666726354
+1,Cual es el procedimiento para dar de alta un AFEL,LLaMA 3,"Para dar de alta un Afiliado al seguro facultativo de la Universidad Veracruzana, debes seguir los siguientes pasos:
+
+Verifica que estés inscrito antes de realizar el movimiento afiliatorio.
+Recibirá la respuesta vía correo electrónico después de realizar el alta en el sistema IDSE del IMSS.
+Una vez notificado por correo electrónico, déjate de alta en la unidad médica correspondiente a través del portal del IMSS.
+No es necesario solicitar la alta de seguro facultativo cada semestre, mientras te mantengas inscrito estarás vigente.",18.28,0.5108263793715264
+2,Cuales son las causas de una baja definitiva,TinyLLaMA,"Aseguramos que nuestra ayuda AI esta disponible en Español. En este programa, los alumnos pueden solicitar la baja definitiva de su programa educativo. La baja definitiva es la privación de derechos y puede estar involucrada en dos o más experiencias educativas o un examen extraordinario en una semana inferior escolar. Si ha causado causa de una baixa definitiva, recuerde reportear 2 o más experiencias educativas en el periodo escolar. Además de la Facultad o Entidad Académica, los alumnos pueden solicitar su ingreso escolar a otro programa que otorga el mismo título (Artículo 39 del Estatuto de los Alumnos 2008). La baja definitiva no puede ser sustituida por copias certificadas por el feedario de la entidad académica. Los alumnos pueden solicitar un seguimiento escolar por email a segurofacultativo@uv.mx, en seguido mencionan: BAJA EGRESADO Constancia Vigencia de Derechos Si requiere s emitir una constancia con la vigencia del seguro facultativo realice lo siguiente: a) Verifique el sitio web del IMSS: https://serviciosdigitales.ims.go.mx/gestionAsegurado-web-externo/vigencia; b) Descarga la Constancia de Vigencia de derechos y comprueba los datos de aseguación que el nombre o razón social sea la Universidad Veracruzan. Consideraciones: Asegúrese de que su documento original se lleva con él cuando se inscriba al programa escolar o, si realiza el examen extraordinario en una semana inferior escolar, no los sustituya.",7.8,0.4333843735195929
+2,Cuales son las causas de una baja definitiva,Phi-3 Mini,"Las causas de una baja definitiva pueden ser:
+
+Agotar las oportunidades de inscripción a que tienen derecho los alumnos, según su nivel educativo.
+
+Reprobar dos o más experiencias educativas en examen extraordinario durante la segunda inscripción del periodo escolar.
+
+Reprobar un examen de última oportunidad aplicable para todos los niveles cursados con baja definitiva (Artículos 39, 40 y 41 del Estatuto de los Alumnos 2008).",11.39,0.4872144477384688
+2,Cuales son las causas de una baja definitiva,Mistral,"Las causas de baja definitiva en un programa educativo son:
+
+Agotar las oportunidades de inscripción a que tienen derecho los alumnos, atendiendo el nivel educativo que se cursa.
+Reprobar dos o más experiencias educativas en examen extraordinario en segunda inscripción en el periodo escolar.
+Reprobar un examen de ultima oportunidad en los niveles que aplique.
+Causa por expulsión, que impide la inscripción en cualquier programa educativo dentro de la misma entidad académica o que otorgue el mismo título o grado académico.",20.32,0.6219108158995871
+2,Cuales son las causas de una baja definitiva,OpenHermes,"Las causas de una baja definitiva son:
+
+Agotar las oportunidades de inscripción a las que tienen derecho los alumnos, atendiendo al nivel educativo que se cursa.
+Reprobar dos o más experiencias educativas en examen extraordinario en segunda inscripción en el periodo escolar.
+Reprobar un examen de ultima oportunidad en los niveles que aplique.
+Esto significa que, si agotes estos requisitos en un programa educativo, no podrás solicitar ingresar a otro programa que otorgue el mismo título académico, aún en diferente modelo o modalidad (Artículo 13 y 39 del Estatuto de los Alumnos 2008).",22.28,0.5813473860668884
+2,Cuales son las causas de una baja definitiva,Dolphin-Mistral,"Las causas de baja definitiva en un programa educativo incluyen: agotar las oportunidades de inscripción a que tienen derecho los alumnos, atendiendo el nivel educativo que se cursa; reprobar dos o más experiencias educativas en examen extraordinario en segunda inscripción en el periodo escolar; y reprobar un examen de ultima oportunidad en los niveles que aplique.",17.51,0.6248886308520536
+2,Cuales son las causas de una baja definitiva,Zephyr,"La baja definitiva se produce al privar a un estudiante de los derechos de inscripción y, en su caso, la cancelación de esa misma, en un programa educativo. Esto impide el ingreso a otro programa que otorgue el mismo título (artículos 39, 40 y 41 del Estatuto de los Alumnos 2008). Los motivos para esta medida son:
+
+Agotar las oportunidades de inscripción en función del nivel educativo que se cursa.
+Reprobar dos o más experiencias educativas en examen extraordinario en segunda inscripción en el período escolar.
+Reprobar un examen de última oportunidad en los niveles que aplique.
+Adicionalmente, se deben tener en cuenta:
+
+Los alumnos tienen derecho a la obtención de sus documentos originales después de realizar el pago arancelario correspondiente. Estos documentos serán sustituidos por copias certificadas en el expediente escolar (fracción XXV, artículo 168 del Estatuto de los Alumnos 2008).
+Los alumnos expulsados también se verán afectados, y su efecto será:
+Impide la inscripción en cualquier programa académico.
+De la entidad académica: Impide la inscripción en cualquier programa académico.
+Para los egresados, deben seguir estos pasos para emitir una constancia con la vigencia del seguro facultativo:
+
+Tener disponible los siguientes datos: CURP, número de Seguridad Social (NSS) y un correo electrónico personal.
+Acceder a la página del IMSS en internet: https://serviciosdigitales.imss.gob.mx/gestionAsegurados-web-externo/vigencia .
+Generar y descargar la Constancia de vigencia de derechos.
+Verificar dentro del apartado Detalle de Vigencia que aparezca el estado ALTA y compruebe en los Datos de Aseguramiento que el nombre o razón social sea la Universidad Veracruzana.",42.05,0.531297175266172
+2,Cuales son las causas de una baja definitiva,LLaMA 3,"Según el Reglamento de Equivalencia y Revalidación de Estudios, las causas de baja definitiva son:
+
+Agotar las oportunidades de inscripción a que tienen derecho los alumnos, atendiendo el nivel educativo que se cursa.
+Reprobar dos o más experiencias educativas en examen extraordinario en segunda inscripción en el período escolar.
+Reprobar un examen de última oportunidad en los niveles que aplique.
+Espero que esto te ayude.",17.8,0.5621172991013834
+3,Cuales son los requisitos para hacer un cambio de programa educativo,TinyLLaMA,"Así estaría un ayudante útil que responda solo en español usando sólo la información proporcionada.
+
+En el Programa Educativo al que deseas cambiar, en los primeros cinco días hábiles luego de iniciado al período escolar, obtienes tu certificado académico emitido por la Secretaria de la Facultad o Entidad Académica que reciba tu solicitud para cambio de programa educativo (descargaar el formato) El Secretario de la Facultad o Entidad Académica al valorar tu requisiesto, valida tu cúpula de evaluación de alumnos cumplimiento con los requisitos establecidos en el Reglamento de Equivalencia y Revállación de Estudiantes (descargaar el formato) Si el alumno cumple con los requisiotos, la Secretaria de la Facultad o Entidad Académica se recibe, ejecuta, a través del Directorio de Servicios Escolares y se registra su solicitación para cambio de programa educativo. La Dirección de Servicios Escuelars informa al Secretario de la Facultad o Entidad Académica, establece los requisiotos con los que debe contar. Algunas Convocatórias especificaan la postulación de becas por parte de la IPES, será la Secretaría de la Facultad (consulte el directorio) quiere que se postule, si remitas toda la documentación específica en la Conversación de Servicios Escuelares, sea la Secretaria de la Facultad o Entidad Académica que postula, señala todas las EE (credidas y no credita) y cuando sean remitas todos los datos establecidos por el Reglamento de Equivalencia y Revállación de Estudiantes (descargaar el formato), puede consultar información adicional sobre las fichas escolares: Egreso El Certificado de estudios es el documento oficial que avala las experiencias educativas y calificaciones acreditadas por una persona en un programa educativo determinado. La Requisitación La clave única de registro de la pilación (CURP) actualizada. Eldo Fotografías de apertura de la pilación para el B/n, papel mate blanco. Más información aquí. Ficha escolar en SUBES (carga individual) De tu correo instituicional envía una solicitud que contenga los siguientes datos: Asunto: Carga ficha escolar Nobree Completo CURP Matrícula Programa Educativo (Carrera) Región Siestma/Modalidad (Escolarizado, Abierto, Virtual, Mixto, A Distancia) Correo electrónico Únicomente quienes ingresaron a este periodo escolar ingresaron a su programa educativo, proporcionar el promedio del certificado de estudios de nivel bachillerato y anexarlo al documento (para la validación de datos). Únicamente quienes se están cursando en este periodo escolar la extensación del servicio social o experiencia recipiente, anexar digitalizado el horario de clases del periodo anterior, en el que se reflejan las caras de la experiencia recepcional o Servicio Social. Para que proceda el trámite se valida en los registros escolares cuentes con Digitalizada elhorario de clases del periodo anterior, en el que se reflejan las caras de la experiencia recipiente. Respuesta en español: Así estaría un ayudante útil que responda solo en español usando sólo la información proporcionada.",14.11,0.5589388701840617
+3,Cuales son los requisitos para hacer un cambio de programa educativo,Phi-3 Mini,"Los requisitos para cambiar a otro Programa Educativo incluyen la emisión del Cárdex académico por parte del Secretario, que confirma el cumplimiento con los criterios según el Reglamento de Equivalencia y Revalidación de Estudios. Además, se debe presentar al Secretario solicitudes firmadas, junto con documentación como la Clave Única de Registro (CURP) actualizada, fotos tamaño credenciales ovaladas en blanco y negro b/n, y los datos personales del estudiante que incluyen su nombre completo y matrícula. Además, si se está cursando un programa educativo relacionado con servicios sociales ejerciendo la extensión de servicio social desde el año 2019 hasta ahora en una organización reconocida, debe adjuntarse al solicitante documentos que evidencien esta experiencia.",13.23,0.3792277956600756
+3,Cuales son los requisitos para hacer un cambio de programa educativo,Mistral,"Cárdex académico emitido por el Secretario de la Facultad o Entidad Académica donde realiza los estudios.
+CURP (Clave Única de Registro de Población).
+Formato de responsiva – Cambio de programa educativo (Descargar formato).
+Cuando se aplique por medio de una beca, será la Secretaría de Facultad quien postule, siempre y cuando remitas toda la documentación especificada en la Convocatoria, durante las fechas establecidas.
+Copia del acta de nacimiento actualizada.
+Dos fotografías tamaño credencial ovaladas (3.5 cm ancho x 5 cm alto) fondo blanco, de frente b/n, papel mate.",21.69,0.4433084821211566
+3,Cuales son los requisitos para hacer un cambio de programa educativo,OpenHermes,"Los requisitos para hacer un cambio de programa educativo son los siguientes:
+
+Cárdex académico emitido por el Secretario de la Facultad o Entidad Académica donde realiza los estudios.
+CURP (Clave Única de Registro de Población).
+Formato de responsiva - Cambio de programa educativo, que puedes descargar desde aquí.
+El Secretario de la Facultad o Entidad Académica que recibe la solicitud, debe validar el cumplimiento de los requisitos para cambio de Programa Educativo, conforme al Reglamento de Equivalencia y Revalidación de Estudios.
+Si el alumno cumple con los requisitos, el Secretario de la Facultad o Entidad Académica receptora enviará un oficio solicitando la asignación de matrícula a la Dirección de Servicios Escolares y atento al Departamento de Control Escolar.",23.87,0.6102052352532877
+3,Cuales son los requisitos para hacer un cambio de programa educativo,Dolphin-Mistral,"Los requisitos para realizar un cambio de programa educativo incluyen:
+
+Cárdex académico emitido por el Secretario de la Facultad o Entidad Académica donde realiza los estudios.
+CURP (Clave Única de Registro de Población).
+Formato de responsiva – Cambio de programa educativo (descargar formato).
+Complimento de todos los requisitos establecidos en el reglamento de Equivalencia y Revalidación de Estudios.
+Solicitud del alumno, CURP, cárdex académico y responsiva enviada al Secretario de la Facultad o Entidad Académica receptora.
+Presentar los documentos solicitados en una solicitud dirigida a uvbecaexterna@uv.mx (correo institucional), especificando los datos siguientes:
+Asunto: Carga ficha escolar
+Nombre Completo
+CURP
+Matrícula
+Programa Educativo (Carrera)
+Región
+Sistema/Modalidad (Escolarizado, Abierto, Virtual, Mixto, A Distancia)
+Correo electrónico
+Si cumple con estos requisitos, el Secretario de la Facultad o Entidad Académica receptora solicitará la asignación de matrícula a la Dirección de Servicios Escolares y se procederá a validar en los registros escolares.",32.41,0.5775421970499931
+3,Cuales son los requisitos para hacer un cambio de programa educativo,Zephyr,"Los requisitos para realizar un cambio de programa educativo se detallan a continuación:
+
+Presentar el carné académico emitido por la facultad o entidad académica donde se cursa el estudio.
+
+Proporcionar el número de registro Único de Persona (CURP) actualizado.
+
+Entregar la responsabilidad de cambio de programa educativo en formato descargable.
+
+La facultad o entidad académica receptora verificará el cumplimiento de los requisitos establecidos en el Reglamento de Equivalencia y Revalidación de Estudios.
+
+Si se cumple con los requisitos, la facultad o entidad académica receptora presentará un oficio (descargable) solicitando la asignación de matrícula y enviará el pedido del estudiante, CURP, carné académico y responsabilidad a la Dirección de Servicios Escolares con atención al Departamento de Control Escolar.
+
+Algunas convocatorias específicas requieren que se postule a través de la Secretaría de Facultad (consulte el directorio) y se proporcione toda la documentación especificada en la convocatoria durante las fechas establecidas.
+
+El promedio que se informa a SUBES considera todas las EE, tanto acreditadas como no acreditadas.
+
+Para obtener más información sobre los documentos escolares, se recomienda consultar la página web del siguiente enlace: Egreso, Certificado de Estudios Completo o Incompleto.
+
+Se enviará un correo electrónico desde el correo institucional con una solicitud que contenga los siguientes datos: Asunto: Carga individual de ficha escolar, nombre completo, CURP, matrícula, programa educativo (carrera), región, correo electrónico y únicamente aquellos que en este periodo escolar ingresaron vía equivalencia a su programa educativo deben proporcionar el promedio del certificado de estudios de nivel bachillerato y anexar el documento para la validación del dato.
+
+Únicamente aquellos que están cursando en este periodo escolar la extensión del servicio social o experiencia recepcional deben anexar digitalizado el horario de clases del período anterior, donde se refleje la carga de la EE Experiencia Recepcional o Servicio Social.
+
+Esperamos que estos requisitos sean claros y faciliten el proceso de cambio de programa educativo. Si tiene cualquier duda, no dude en ponernos en contacto.",50.77,0.5630936090325122
+3,Cuales son los requisitos para hacer un cambio de programa educativo,LLaMA 3,"Según el contexto proporcionado, los requisitos para cambiar de Programa Educativo son:
+
+Entregar Cárdex académico emitido por el Secretario de la Facultad o Entidad Académica donde realiza los estudios.
+Presentar CURP (Clave Única de Registro de Población) actualizada.
+Llenar y entregar el Formato de responsiva – Cambio de programa educativo (Descargar formato).
+Cumplir con los requisitos establecidos por el Reglamento de Equivalencia y Revalidación de Estudios.
+Espero que esto te ayude.",19.08,0.5107011282485002
+4,Como hago una aclaración de mi datos escolares de SUBES,TinyLLaMA,"Uso un conjunto de información proporcionada para realizar la siguiente aclación de datos escolares en español. Este es el texto original en inglés:
+
+Hi there!
+
+I have received your request for clarification on the required data for your current period of education, as well as updated information about the upcoming period of Extensión (a/k/a Social Extension) or Experiencia Recepcionable (i.e., Service Social or Youth Employment Receiving Program).
+
+The academic year in question began on August 2nd and ends on January 5th, with students from that period being eligible for the following period of Expérience Recepcionable (also known as Social Extension) and Service Social. Please provide your updated information to the registrar at UV.
+
+In summary, according to our records, you are enrolled in the current academic year. The period of Expérience Recepcionable, which includes the Social Extension program from August 2nd to January 5th, is approaching. Please provide your updated information on this point and we will ensure that your carrier data is verified accurately for proper processing.
+
+Thank you in advance for your cooperation. Should there be any further clarification required, please do not hesitate to reach out.
+
+Best regards,
+
+[Your name]",3.99,0.04367149525559925
+4,Como hago una aclaración de mi datos escolares de SUBES,Phi-3 Mini,"Aquí hay un ejemplo de cómo podrías escribir la acción para enviar esta consulta por correo electrónico utilizando los detalles proporcionados anteriormente:
+
+Estimado Sr./Sra. [Nombre Completo],
+
+Me llamaría a atender su solicitud respecto al procesamiento de mi ficha escolar en SUBES (carga individual). He revisado la información contenida en el comunicado y le estoy haciendo llegar una acción para recibir más clarificaciones sobre mis datos.
+
+Agradecido, me gustaría solicitar que se proporcionen los siguientes detalles adicionales de mi ficha escolar:
+
+La información referente a su matrícula actual en el programa educativo (carrera) correspondiente.
+Su registro CURP y región donde cursa la carrera, para confirmar que se encuentran correctamente registrados.
+El sistema/modalidad escolar al que pertenezco: Escolarizado, Abierto, Virtual, Mixto o A Distancia.
+La fecha de mi inscripción actual al presente periodo escolar.
+Información sobre si estoy cursando en este período la extensión del servicio social o experiencia recipcional. Si es así, adjuntaré el horario digitalizado detallado con las fechas y tiempos correspondientes para los periodos anteriores (si están disponibles).
+Información acerca de si hay bajas temporales o definitivas que se registraron en mis fichas escolares previas, así como la fecha del registro por parte de SUBES. Esto me ayudará a mantener actualizada mi información personal y evitar posibles contratiempos en el procesamiento futuro.
+La confirmación que he iniciado el trámite para recibir una carga masiva de fichas escolares, según los avisos importantes reportados por la Secretaría de Administración y Finanzas del programa S283 Jóvenes Escribiendo el Futuro.
+Agradezco su atención en este asunto y quedo a disposición para cualquier duda adicional o necesidad específica que pueda surgir durante la revisión de mi información escolar personalizada en SUBES. Le agradecería una respuesta lo antes posible con esta solicitud, ya sea por correo electrónico directamente al email: uvbecaexterna@uv.mx o a través del sistema/portal educativo correspondiente que maneje los registros escolares en SUBES.
+
+Saludos cordiales y atentos respeto suyo,
+
+[Nombre Completo]",29.78,0.3101711750709513
+4,Como hago una aclaración de mi datos escolares de SUBES,Mistral,"¡Hola! Para hacer una aclaración de tus datos escolares en SUBES, debes enviar una solicitud desde tu correo institucional a la dirección uvbecaexterna@uv.mx. El asunto debe contener ""Aclaración datos escolares"". Incluye en el cuerpo del mensaje tus datos personales: Nombre Completo, CURP, Matrícula, Programa Educativo (Carrera), Región y Sistema/Modalidad. Para que se procese la solicitud, es importante que estés inscripto en el actual periodo escolar. También agrega el Kardex actualizado para revisión del promedio o semestre. ¡Espero que te sea útil!",21.57,0.4024174012956225
+4,Como hago una aclaración de mi datos escolares de SUBES,OpenHermes,"Para realizar una aclaración de tus datos escolares de SUBES, sigue estos pasos:
+
+En tu correo institucional, envía un mensaje a la dirección electrónica uvbecaexterna@uv.mx.
+En el asunto del correo, escribe ""Aclaración datos escolares"".
+Proporciona los siguientes datos en el cuerpo del correo:
+Nombre Completo
+CURP
+Matrícula
+Programa Educativo (Carrera)
+Región
+Sistema/Modalidad (Escolarizado, Abierto, Virtual, Mixto, A Distancia)
+En el correo, especifica los datos que requieres se verifiquen y adjunta el Kardex actualizado para la revisión del promedio o semestre.
+Por favor, asegúrate de proporcionar esta información en el correo:
+Nombre Completo
+CURP
+Matrícula
+Programa Educativo (Carrera)
+Región
+Sistema/Modalidad (Escolarizado, Abierto, Virtual, Mixto, A Distancia)
+Para que el trámite se valide en los registros escolares, asegúrate de estar inscrito(a) al actual periodo escolar.
+Recuerda seguir las fechas y procedimientos indicados en la información proporcionada para realizar correctamente tu aclaración de datos escolares en SUBES.",33.57,0.4612603266892863
+4,Como hago una aclaración de mi datos escolares de SUBES,Dolphin-Mistral,"Para realizar una aclaración de tus datos escolares de SUBES, debes enviar un correo electrónico desde tu dirección institucional a uvbecaexterna@uv.mx.
+
+En el cuerpo del mensaje, debes especificar los siguientes datos:
+
+Asunto: Aclaración datos escolares
+Nombre Completo
+CURP
+Matrícula
+Programa Educativo (Carrera)
+Región
+Sistema/Modalidad (Escolarizado, Abierto, Virtual, Mixto, A Distancia)
+En el correo electrónico debes proporcionar esta información:
+
+Asunto: Aclaración datos escolares
+Nombre Completo
+CURP
+Matrícula
+Programa Educativo (Carrera)
+Región
+Sistema/Modalidad (Escolarizado, Abierto, Virtual, Mixto, A Distancia)
+Debes adjuntar el Kardex actualizado para la revisión del promedio o semestre.
+
+Para que proceda el trámite se validará en los registros escolares cuentes con inscripción al actual periodo escolar.",28.66,0.4825119111593811
+4,Como hago una aclaración de mi datos escolares de SUBES,Zephyr,"Para hacer una aclaración de tus datos escolares en SUBES, debes enviar un correo electrónico desde tu dirección institucional al email uvbecaexterna@uv.mx con el asunto ""Aclaración datos escolares"". En el mensaje, debe especificar los datos que deseas que se verifiquen y adjuntar el kardex actualizado para la revisión del promedio o semestre. Recuerda que para que el trámite se valide en los registros escolares, debes tener inscripción en el actual periodo escolar. Es importante mencionar que según el Comunicado de Inicio 2024-2 del programa S283 Jóvenes Escribiendo el Futuro, la carga de fichas escolares para los estudiantes inscritos(as) en el periodo escolar agosto 2024-enero 2025 ha sido realizada. La carga de ficha escolar de los estudiantes inscritos(as) en segundo periodo de Experiencia Recepcional, Servicio Social se realizará del 9 al 20 de septiembre de 2024. Finalmente, la carga de ficha escolar reportando bajas temporales, bajas definitivas y egresados se realizará a más tardar el 30 de septiembre de 2024. Para obtener más información, puedes consultar el monto del arancel en la página web indicada.",31.98,0.3711949786788025
+4,Como hago una aclaración de mi datos escolares de SUBES,LLaMA 3,"Para hacer una aclaración de tus datos escolares en SUBES, debes enviar un correo electrónico desde tu cuenta institucional a la dirección uvbecaexterna@uv.mx con el siguiente contenido:
+
+Asunto: Aclaración datos escolares Nombre Completo CURP Matrícula Programa Educativo (Carrera) Región Sistema/Modalidad (Escolarizado, Abierto, Virtual, Mixto, A Distancia)
+
+Además, debes adjuntar el Kardex actualizado para la revisión del promedio o semestre.",18.18,0.4235145406213461
+5,Cual es el costo y forma de pago de mi certificado de estudios,TinyLLaMA,"Las personas que han realizado estudios parcialemente pueden solicitar un certificado de estudios según su experiencia educativa o por período escolar. El costo de este certificado es
+400.00
+e
+n
+c
+u
+a
+l
+q
+u
+i
+e
+r
+c
+a
+j
+a
+d
+e
+l
+a
+U
+n
+i
+v
+e
+r
+s
+i
+d
+a
+d
+V
+e
+r
+a
+c
+r
+u
+z
+a
+n
+a
+(
+a
+r
+a
+n
+c
+e
+l
+)
+o
+d
+e
+p
+o
+ˊ
+s
+i
+t
+o
+b
+a
+n
+c
+a
+r
+i
+o
+m
+e
+d
+i
+a
+n
+t
+e
+h
+o
+j
+a
+s
+d
+e
+a
+y
+u
+d
+a
+p
+r
+o
+p
+o
+r
+c
+i
+o
+n
+a
+d
+a
+s
+p
+o
+r
+l
+a
+S
+e
+c
+r
+e
+t
+a
+r
+ı
+ˊ
+a
+A
+c
+a
+d
+e
+ˊ
+m
+i
+c
+a
+R
+e
+g
+i
+o
+n
+a
+l
+d
+e
+l
+a
+s
+V
+i
+c
+e
+−
+R
+e
+c
+t
+o
+r
+ı
+ˊ
+a
+s
+(
+c
+o
+m
+p
+r
+o
+b
+a
+n
+t
+e
+d
+e
+t
+r
+a
+n
+s
+f
+e
+r
+e
+n
+c
+i
+a
+)
+.
+A
+d
+e
+m
+a
+ˊ
+s
+,
+e
+l
+c
+e
+r
+t
+i
+f
+i
+c
+a
+d
+o
+p
+o
+s
+e
+e
+d
+o
+s
+d
+ı
+ˊ
+a
+s
+y
+h
+o
+r
+a
+r
+i
+o
+d
+e
+a
+t
+e
+n
+c
+i
+o
+ˊ
+n
+:
+l
+o
+s
+l
+u
+n
+e
+s
+a
+v
+i
+e
+r
+n
+e
+s
+d
+e
+s
+d
+e
+9
+:
+00
+a
+21
+:
+00
+h
+r
+s
+.
+S
+i
+s
+u
+s
+e
+x
+p
+e
+r
+i
+e
+n
+c
+i
+a
+s
+e
+d
+u
+c
+a
+t
+i
+v
+a
+s
+o
+p
+e
+r
+ı
+ˊ
+o
+d
+o
+s
+e
+s
+c
+o
+l
+a
+r
+e
+s
+s
+e
+h
+a
+n
+l
+l
+e
+v
+a
+d
+o
+a
+c
+a
+b
+o
+d
+e
+n
+t
+r
+o
+d
+e
+l
+p
+a
+q
+u
+e
+t
+i
+t
+o
+d
+e
+t
+i
+t
+u
+l
+a
+c
+i
+o
+ˊ
+n
+,
+s
+e
+s
+o
+l
+i
+c
+i
+t
+a
+e
+n
+e
+l
+m
+i
+s
+m
+o
+d
+ı
+ˊ
+a
+q
+u
+e
+t
+r
+a
+t
+e
+d
+e
+r
+e
+a
+l
+i
+z
+a
+r
+u
+n
+t
+ı
+ˊ
+t
+u
+l
+o
+,
+d
+i
+p
+l
+o
+m
+a
+o
+g
+r
+a
+d
+o
+a
+c
+a
+d
+e
+ˊ
+m
+i
+c
+o
+,
+e
+n
+l
+o
+s
+c
+a
+s
+o
+s
+d
+e
+t
+r
+a
+m
+i
+t
+e
+d
+e
+s
+d
+e
+e
+l
+p
+a
+q
+u
+e
+t
+e
+t
+d
+e
+t
+i
+t
+u
+l
+a
+c
+i
+o
+ˊ
+n
+.
+T
+a
+m
+b
+i
+e
+ˊ
+n
+d
+e
+b
+e
+n
+c
+u
+m
+p
+l
+i
+r
+c
+o
+n
+l
+o
+s
+r
+e
+q
+u
+i
+s
+i
+t
+o
+s
+m
+e
+n
+c
+i
+o
+n
+a
+d
+o
+s
+p
+o
+r
+l
+a
+E
+n
+t
+i
+d
+a
+d
+A
+c
+a
+d
+e
+ˊ
+m
+i
+c
+a
+(
+f
+i
+c
+h
+a
+d
+e
+d
+e
+p
+o
+ˊ
+s
+i
+t
+o
+)
+o
+e
+l
+P
+o
+r
+t
+a
+l
+M
+i
+P
+a
+G
+o
+(
+c
+o
+m
+p
+r
+o
+b
+a
+n
+t
+e
+d
+e
+t
+r
+a
+n
+s
+f
+e
+r
+e
+n
+c
+i
+a
+)
+.
+A
+d
+e
+m
+a
+ˊ
+s
+,
+l
+a
+s
+p
+e
+r
+s
+o
+n
+a
+s
+q
+u
+e
+s
+e
+h
+a
+y
+a
+r
+e
+a
+l
+i
+z
+a
+d
+o
+s
+u
+e
+s
+t
+u
+d
+i
+o
+e
+n
+u
+n
+p
+r
+o
+g
+r
+a
+m
+a
+e
+d
+u
+c
+a
+t
+i
+v
+o
+d
+e
+t
+e
+r
+m
+i
+n
+a
+d
+o
+,
+p
+u
+e
+d
+e
+n
+s
+o
+l
+i
+c
+i
+t
+a
+r
+e
+l
+c
+e
+r
+t
+i
+f
+i
+c
+a
+d
+o
+a
+p
+a
+r
+t
+i
+r
+d
+e
+l
+T
+r
+a
+ˊ
+m
+i
+t
+e
+d
+e
+t
+ı
+ˊ
+t
+u
+l
+o
+,
+d
+i
+p
+l
+o
+m
+a
+o
+g
+r
+a
+d
+o
+a
+c
+a
+d
+e
+ˊ
+m
+i
+c
+o
+.
+E
+l
+c
+o
+s
+t
+o
+d
+e
+e
+s
+t
+e
+c
+e
+r
+t
+i
+f
+i
+c
+a
+d
+o
+e
+s
+400.00encualquiercajadelaUniversidadVeracruzana(arancel)odep 
+o
+ˊ
+ sitobancariomediantehojasdeayudaproporcionadasporlaSecretar 
+ı
+ˊ
+ aAcad 
+e
+ˊ
+ micaRegionaldelasVice−Rector 
+ı
+ˊ
+ as(comprobantedetransferencia).Adem 
+a
+ˊ
+ s,elcertificadoposeedosd 
+ı
+ˊ
+ asyhorariodeatenci 
+o
+ˊ
+ n:loslunesaviernesdesde9:00a21:00hrs.Sisusexperienciaseducativasoper 
+ı
+ˊ
+ odosescolaressehanllevadoacabodentrodelpaquetitodetitulaci 
+o
+ˊ
+ n,sesolicitaenelmismod 
+ı
+ˊ
+ aquetratederealizarunt 
+ı
+ˊ
+ tulo,diplomaogradoacad 
+e
+ˊ
+ mico,enloscasosdetramitedesdeelpaquetetdetitulaci 
+o
+ˊ
+ n.Tambi 
+e
+ˊ
+ ndebencumplirconlosrequisitosmencionadosporlaEntidadAcad 
+e
+ˊ
+ mica(fichadedep 
+o
+ˊ
+ sito)oelPortalMiPaGo(comprobantedetransferencia).Adem 
+a
+ˊ
+ s,laspersonasquesehayarealizadosuestudioenunprogramaeducativodeterminado,puedensolicitarelcertificadoapartirdelTr 
+a
+ˊ
+ mitedet 
+ı
+ˊ
+ tulo,diplomaogradoacad 
+e
+ˊ
+ mico.Elcostodeestecertificadoes400.00 en cualquier caja de la Universidad Veracruzana (arancel) o depósito bancario proporcionadas por la Secretaría Académica Regional de las Vice-Rectorías. Finalmente, los solicitantes podrán solicitar legalización del certificado del mismo día que trate de cumplir con los requisitos mencionados por la Entidad Académica (ficha de depósito) o el Portal Mi PaGo (comprobante de transferencia).",7.8,0.3274120533917901
+5,Cual es el costo y forma de pago de mi certificado de estudios,Phi-3 Mini,"El costo del Certificado de Estudios es de $400.00 USD y puede pagarse utilizando cualquiger formas, como depositarlo directamente en cualquier caja de la Universidad Veracruzana según el arancel establecido por la entidad académica; o bien mediante depósito bancario con ayuda proporcionada en una ficha de depósito emitida también por la misma entidad. Otra opción es realizar transferencia electrónica a través del portal Mi Pago para comprobar el pago utilizando un documento que certifique dicha transacción, como el Comprobante de Transferencia.",11.58,0.4586809452861421
+5,Cual es el costo y forma de pago de mi certificado de estudios,Mistral,El costo del Certificado de Estudios es de $ 400.00. Puedes pagar en cualquier caja de la Universidad Veracruzana (arancel) o a través de depósito bancario mediante hoja de ayuda proporcionada por la Entidad Académica (ficha de depósito) o transferencia electrónica a través del portal Mi Pago (comprobante de transferencia).,16.64,0.6346154223214621
+5,Cual es el costo y forma de pago de mi certificado de estudios,OpenHermes,"El costo del Certificado de Estudios es de $400.00. Puedes pagar en cualquier caja de la Universidad Veracruzana (arancel) o hacer un depósito bancario mediante la hoja de ayuda proporcionada por la Entidad Académica o realizar una transferencia electrónica a través del portal Mi Pago, y presentar el comprobante de transferencia.",16.8,0.6240668593372846
+5,Cual es el costo y forma de pago de mi certificado de estudios,Dolphin-Mistral,"El costo del Certificado de Estudios es de $400.00, y se puede pagar en cualquier caja de la Universidad Veracruzana o a través de depósito bancario. Para realizar el pago, se proporciona una hoja de ayuda para facilitar las transacciones financieras. También se puede hacer un pago electrónico mediante transferencia electrónica a través del portal Mi Pago, y en ese caso se solicita un comprobante de transferencia.
+
+Para obtener más información o resolver dudas, puede ponerse en contacto con la Secretaría Académica Regional de las Vicerrectorías o enviar un correo electrónico a cgomez@uv.mx; mamedina@uv.mx.",21.68,0.4271874502397843
+5,Cual es el costo y forma de pago de mi certificado de estudios,Zephyr,"El costo para obtener un Certificado de Estudios es de $400.00, y se puede pagar en cualquier caja de la Universidad Veracruzana (arancel), mediante una hoja de ayuda o un depósito bancario, según se indique en la ficha de depósito proporcionada por la Entidad Académica, o a través del portal Mi Pago con un comprobante de transferencia electrónica.",17.56,0.6166290676822269
+5,Cual es el costo y forma de pago de mi certificado de estudios,LLaMA 3,"El costo del Certificado de Estudios es de $400.00. Puedes pagar este arancel de la siguiente manera:
+
+En cualquier caja de la Universidad Veracruzana.
+Haciendo un depósito bancario mediante una hoja de ayuda proporcionada por la Entidad Académica (ficha de depósito).
+Realizando una transferencia electrónica a través del portal Mi Pago, con comprobante de transferencia.
+Si tienes alguna duda o inquietud, puedes ponerse en contacto con la Secretaría de la entidad académica.",17.95,0.5678933596246517
+6,Que debo de hacer para una reposición de mi credencial física ,TinyLLaMA,"Para solicitar la reposición de su credenza física, es necesario iniciar un trámite electrónico y pagar el costo de esta servicio. La fecha del último boletín oficial de los alumnos ingresados a la Universidad Veracruzana (UV), incluyendo los términos en el que se incluyen las dos cuotas (primer y último trimestre) y el resello, es el 24 de noviembre.
+
+La repostación electrónica de la credencia lógica física (CRD) requiere una digitalización de la foto de identidad, de calidad, en formato jpg. Los recursos no tienen costo para los alumnos universitarios y se tomará la fotografía digital que envies (este trámite y tipo de credencial no tiene costo).
+
+La reposición requiere que realices lo siguiente:
+
+Realiza un trámite electrónico a través del formulario abajo, en la página oficial de UV.
+Paza una foto digital de calidad en formato jpg de la imagen con tu CRD (nombre del archivar el material impreso al universidad, por ejemplo S18012345.jpg).
+Paza otra foto digital de calidad, esta vez de calidad, que cumpla los siguientes requisitos:
+Cuante sea la fotografía digital que envies (este trámite y tipo de credencial no tiene costo).
+Este procedimiento requiere que realizar los siguientes pasos para poder solicitar la reposición de su CRD:
+
+Paga por concepto de crédenza física electrónica, en tu cuenta de pago/tarjeta de pagos.
+Paga por concepto de resello (consulta tabula de cuotas).
+Entrega los arañales de pago en tu cuenta de pago/tarjeta de pagos.
+Entrega los arañales de pago en tu facultad/entidad académica, para que gestionen la reposición de tu crédenza físicaelectrónica reemplazada por la nueva.
+Realiza lo siguiente: el proceso se hace mediante la página oficial de UV y requiere que tengas una fotografía digital de calidad, con un archivo jpg de tu CRD (nombre del archivar el material impreso al universidad, por ejemplo S18012345.jpg).
+Envia la foto de calidad digital a UV, mediante el formulario abajo o en la página oficial de UV.
+Paza otra foto de calidad digital, esta vez de calidad, que cumpla los siguientes requisitos:
+Cuante sea la fotografía digital que envies (este trámite y tipo de credencial no tiene costo).
+El proceso se realiza automáticamente a través del sistema de repostación electrónica de UV.
+Las restantes cuotas (primer y último trimestre) y el resello no incluyen costos, pero los alumnos universitarios pueden solicitarlos.
+
+Respuesta en español:
+
+Para solicitar la reposición de su crédenza física electrónica (CRD), primero se necesita iniciar un trámite electrónico y pagar el costo de esta servicio. El último boletín oficial de los alumnos ingresados a la Universidad Veracruzana (UV) incluyendo las dos cuotas (primer y último trimestre) y el resello, es el 24 de noviembre.
+
+La reposición requiere una digitalización de la foto de identidad, de calidad, en formato jpg. Los recursos no tienen costo para los alumnos universitarios y se tomará la fotografía digital que envies (este trámite y tipo de crédenza física electrónica no tiene costo).
+
+La reposición requiere que realices lo siguiente:
+
+Realice un trámite electrónico a través del formulario abajo, en la página oficial de UV. 2. Paza una foto digital de calidad, de calidad, de una imagen con tu CRD (nombre del archivar el material impreso al universidad, por ejemplo S18012345físima .jpg). 3. Realiza lo siguiente:
+Paza una foto digital en la fotografía de calificación física, gráfica y escripa para cualquier tipoas, como se debe tener aportado, ahorrasa. 9820/1/sea grácido, aquí/Una imagen: CUván para la fotográfica del archiv|programatic|93, de [¿a imadre y ¿suel, a uno de “sies e.ª iguas para una imagen para>acero, adicio. Acuador, así porce/cita de una cuenta/idámime: Preposed yécio!amp.<alía>.info envoes oneste",18.62,0.4179129743688068
+6,Que debo de hacer para una reposición de mi credencial física ,Phi-3 Mini,"Para solicitar la reposición o resello de tu credencial física, debes realizar los siguientes pasos:
+
+Realiza el pago por concepto de credential y sello (consulta tabulador de cuotas).
+Realiza también el pago por concepto del re-resello si es necesario.
+Entrega los aranceles pagados en tu facultad/entidad académica para que gestionen la reposición de tu credencial física.
+En caso de robo o extravío, asegúrate de notificar inmediatamente al centro académico sobre el incidente y proporciona su información necesaria como nombre completo, número del registro universitario y otra identificación válida si es requerido (puede ser tu CURP o NSS).
+Verifica que tiens derecho al Seguro Facultativo por parte de la Universidad Veracruzana; para ello debes ingresar a https://serviciosdigitales.imss.gob.mx/gestionAsegurados-web-externo/vigencia y realizar la comprobación pertinente, si no cuentas con dicho seguro, deberás tramitarlo en tu propia facultad o entidad académica para tener acceso a los servicios del IMSS.
+Si estás embarazada, debes verificar que se aplique el beneficio especialmente designado al Seguro Facultativo si está incluido dentro de tus beneficios disponibles en la Universidad Veracruzana o consultado con tu entidad académica respectiva para asegurarte de tener cobertura.
+Consulta sobre las restricciones y requisitos relacionados al uso y conservación de la credencial, como fotos personales legibles que representan adecuadamente tu identificación en los moldes físicos del certificado para evitar cualquier confusión o robo futuro.",23.97,0.4423169349327039
+6,Que debo de hacer para una reposición de mi credencial física ,Mistral,"Pago por concepto de credencial (consultar tabulador de cuotas).
+Pago por concepto de resello (consultar tabulador de cuotas).
+Entrega los aranceles de pago (escaneados) en tu facultad/entidad académica, para que gestionen la reposición de tu credencial física",17.29,0.5672668090185046
+6,Que debo de hacer para una reposición de mi credencial física ,OpenHermes,"Para realizar una reposición de su credencial física en caso de robo o extravío, el estudiante debe seguir los siguientes pasos:
+
+Realice los pagos por concepto de credencial y resello, consultando los tabuladores de cuotas para verificar los costos correspondientes.
+Entregue los aranceles de pago escaneados en su facultad o entidad académica, donde se gestionará la reposición de la credencial física.",18.87,0.4578919154545944
+6,Que debo de hacer para una reposición de mi credencial física ,Dolphin-Mistral,"Para una reposición de su credencial física, debes realizar los siguientes pasos:
+
+Pago por concepto de credencial (consultar tabulador de cuotas).
+Pago por concepto de resello (consultar tabulador de cuotas).
+Entrega los aranceles de pago (escaneados) en tu facultad/entidad académica, para que gestionen la reposición de tu credencial física.
+Recuerda que es necesario tener un código QR o número de matrícula asignado para realizar esta operación.",20.25,0.5681708245382485
+6,Que debo de hacer para una reposición de mi credencial física ,Zephyr,"Si perdiste o se robó tu credencial física de la Universidad Veracruzana debes seguir los siguientes pasos:
+
+Pago del concepto de credencial (consulta el tabulador de cuotas).
+Pago del concepto de resello (consulta el tabulador de cuotas).
+Entrega de los comprobantes de pago (escaneados) en tu facultad/entidad académica, para que se encarguen de la reposición de tu credencial física.
+Si necesitas actualizar tus datos debido a un reconocimiento de identidad sexual-genérica, consulta el procedimiento establecido en la Parte 2 de los lineamientos: https://www.uv.mx/uge/files/2024/11/Actualizacion-de-datos-por-reconocimiento-de-identidad-sexo-generica-nov24.pdf.
+
+Para verificar la vigencia de los derechos, debes llevar a mano tu número de registro único (CURP), número de seguridad social (NSS) y un correo electrónico personal. Ingrese a la página del IMSS: https://serviciosdigitales.imss.gob.mx/gestionAsegurados-web-externo/vigencia, verifica que sí cuentes con derecho al Seguro Facultativo por parte de la UV en tu Constancia de Vigencia de Derechos y, si no lo tiene, deberá tramitar su alta.
+
+Si tienes dudas sobre el Seguro de Salud para Estudiantes, consulta: https://www.gob.mx/afiliatealimss/articulos/preguntas-frecuentes-sobre-la-afiliacion-al-imss-para-estudiantes o http://www.imss.gob.mx/faq/seguro-estudiantes/pf.
+
+No hay edad límite y el servicio tiene costo. En caso de que tu escuela no te registre, debes contactar al Coordinador Académico o la Secretaría General para que se encargue de tu registro. El Seguro Facultativo te cubre si estás embarazada y hay algunas restricciones, puedes consultarlos en: https://www.gob.mx/afiliatealimss/articulos/preguntas-frecuentes-sobre-la-afiliacion-al-imss-para-estudiantes.",48.11,0.4549949867802958
+6,Que debo de hacer para una reposición de mi credencial física ,LLaMA 3,"Para realizar la reposición de tu credencial física, debes seguir los siguientes pasos:
+
+Pago por concepto de credencial (consultar tabulador de cuotas).
+Pago por concepto de resello (consultar tabulador de cuotas).
+Entrega los aranceles de pago (escaneados) en tu facultad/entidad académica, para que gestionen la reposición de tu credencial física.
+Recuerda que es importante que tengas a la mano tus documentos y archivos necesarios, como la CURP, Número de Seguridad Social (NSS) y un correo electrónico personal.",19.26,0.5659688149289659

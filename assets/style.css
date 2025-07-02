@@ -1,0 +1,140 @@
+/* assets/style.css */
+
+/* 1. Importar la tipografía Montserrat desde Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+
+/* 2. Aplicar estilos globales */
+html, body {
+  background-color: #ffffff;            /* Fondo blanco */
+  color: #000000;                       /* Texto negro por defecto */
+  font-family: 'Montserrat', sans-serif;/* Tipografía Montserrat */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* 3. Asegurar que todos los elementos usen box-sizing: border-box */
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+/* 4. Enlaces */
+a {
+  color: #1a73e8;       /* Azul predeterminado para enlaces */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* 5. Encabezados (opcional: regular peso */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+/* 6. Párrafos */
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+/* 7. Botones (por si usas <button> en HTML o componentes HTML en Streamlit) */
+button {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  background-color: #1a73e8;
+  color: #ffffff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1665c1;
+}
+
+/* 8. Formularios / Inputs */
+input, textarea {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  border: 1px solid #cccccc;
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  outline: none;
+}
+
+input:focus, textarea:focus {
+  border-color: #1a73e8;
+  box-shadow: 0 0 0 2px rgba(26, 115, 232, 0.2);
+}
+
+/* 9. Contenedores generales */
+.container {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* 10. Ajustes para listas */
+ul, ol {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+/* 11. Estilo para imágenes */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* 12. Estilo para tablas (opcional) */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+th {
+  background-color: #f5f5f5;
+  font-weight: 500;
+}
+
+/* 13. Scrollbar personalizado (solo en navegadores WebKit) */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #cccccc;
+  border-radius: 4px;
+}
+
+/* 14. Evitar que Streamlit agregue márgenes extra innecesarios */
+[data-testid="stAppViewContainer"] > .main {
+  padding: 0;
+}
+
+[data-testid="stSidebar"] {
+  padding: 0;
+}
